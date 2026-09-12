@@ -18,8 +18,8 @@ export default function Projects() {
       <SectionHeader
         badge="Featured Work"
         title="Selected"
-        highlight="Engineering Projects"
-        subtitle="A collection of production-ready applications, high-throughput microservices, and modern user interfaces."
+        highlight="Projects"
+        subtitle="A collection of production-ready applications with modern and responsive user interfaces."
       />
 
       {/* Category Filter Pills */}

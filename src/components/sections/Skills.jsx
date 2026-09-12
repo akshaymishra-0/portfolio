@@ -40,7 +40,7 @@ export default function Skills() {
         badge="Technical Arsenal"
         title="Skills &"
         highlight="Technologies"
-        subtitle="A categorized overview of the tools, frameworks, and engineering languages I deploy to build high-grade software."
+        subtitle="A categorized overview of the tools, frameworks, and programming languages, used to build my projects."
       />
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 lg:gap-8">
